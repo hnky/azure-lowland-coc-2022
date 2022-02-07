@@ -1,6 +1,8 @@
-**Code of Conduct**
 
-Uptime Conference is a hybrid event in which everyone can participate in an inclusive, respectful, and safe manner. We are dedicated to providing a harassment-free experience for all event participants and expect all attendees, speakers, sponsors, the event team and the program committee to show respect and courtesy to the other participants.
+
+*Code of Conduct - Azure Lowlands 2022*
+
+Azure Lowlands 2022 is a hybrid event in which everyone can participate in an inclusive, respectful, and safe manner. We are dedicated to providing a harassment-free experience for all event participants and expect all attendees, speakers, sponsors, the event team and the program committee to show respect and courtesy to the other participants.
 
 The terms of this Code of Conduct are non-negotiable. Your registration for or attendance at our event indicates your agreement to abide by this policy and its terms.
 
@@ -24,11 +26,14 @@ Breaches of this Code of Conduct may result in disqualification from participati
 
 **Talk to Us**
 
-If you see or experience something that seems inappropriate or makes you or anyone else feel unsafe or uncomfortable, please tell us either personally or anonymously. Our team will respond to inquiries as soon as possible via [uptime@aiven.io] or anonymously via [the form](). If you feel comfortable enough or prefer to report an issue in-person, our conference staff can be identified by t-shirts.
+If you see or experience something that seems inappropriate or makes you or anyone else feel unsafe or uncomfortable, please tell us either personally or anonymously. Our team will respond to inquiries as soon as possible via [board@azurelowlands.com] or anonymously via [the form](). If you feel comfortable enough or prefer to report an issue in-person, our conference staff can be identified by t-shirts.
+
+TODO: Add person + Photo + Phonenumber + Email
+
 
 **Pre-Event Concerns**
 
-If you are planning to attend the upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact us via [uptime@aiven.io]. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
+If you are planning to attend the upcoming event, whether in-person or virtually and have concerns regarding another individual who may be present, please contact us via [board@azurelowlands.com]. Precautions will be taken to ensure your comfort and safety, including, but not limited to providing an escort, prepping onsite event staff, keeping victim and harasser from attending the same talks/social events and providing onsite contact cell phone numbers for immediate contact.
 
 **COVID-19 Conduct Requirements**
 
