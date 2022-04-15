@@ -1,6 +1,6 @@
 
 
-_Code of Conduct - Azure Lowlands 2022_
+# Code of Conduct - Azure Lowlands 2022
 
 Azure Lowlands 2022 is a hybrid event where everyone can participate in an inclusive, respectful, and safe manner. We are dedicated to providing a harassment-free experience for all event participants. We expect all attendees, speakers, sponsors, the event team, and the program committee to show respect and courtesy to the other participants.
 The terms of this Code of Conduct are non-negotiable. Your registration for or attendance at our event indicates your agreement to abide by this policy and its terms.
