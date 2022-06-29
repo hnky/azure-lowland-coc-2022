@@ -27,7 +27,9 @@ Breaches of this Code of Conduct may result in disqualification from participati
 
 If you see or experience something that seems inappropriate or makes you or anyone else feel unsafe or uncomfortable, please tell us personally or anonymously. Our team will respond to inquiries as soon as possible via [board@azurelowlands.com] or anonymously via the form. If you feel comfortable enough or prefer to report an issue in-person, our conference staff can be identified by t-shirts.
 
-TODO: Add person + Photo + Phonenumber + Email
+Henk: +31 6 55802421    
+Sjoukje: +31 6 22726772    
+Suzanne: +31 6 21203650    
 
 **Pre-Event Concerns**
 
